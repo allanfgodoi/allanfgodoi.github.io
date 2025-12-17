@@ -81,15 +81,15 @@ I am Allan Eduardo Flores Godoi Ferreira, born in Brazil and currently an underg
 
 ## 🏆 Awards
 
-* **Session Best Presentation:** Salon of Undergraduate Research IF-UFRGS 2024 (Oct 2024). Selected as the best undergraduate research project presentation in the session for the work on Variational Autoencoders.
+* **Session Best Presentation:** Salon of Undergraduate Research IF-UFRGS 2024 (Oct 2024). Selected as the best undergraduate research project presentation in the session for the work entitled: "Application of Variational Autoencoders to Generate $D^{0}$ Meson Kinematics in Heavy-ion Collisions at the LHC".
 
-* **Highlighted Abstract:** IV Spring Meeting of the Brazilian Physical Society (Sep 2024). Selected as a highlighted abstract in the Experimental High Energy Physics topic.
+* **Highlighted Abstract:** IV Spring Meeting of the Brazilian Physical Society (Sep 2024). Selected as a highlighted abstract in the Experimental High Energy Physics topic for the work entitled: "Application of Variational Autoencoders to Generate $D^{0}$ Meson Kinematics in Heavy-ion Collisions at the LHC".
 
 ---
 
 ## 💻 Skills
 
-* **Languages:** Portuguese (Native), English (Upper-intermediate), Spanish (Elementary).
+* **Languages:** Portuguese (native), English (fluent), Spanish (elementary).
 
 * **Programming:** C++, Python, ROOT (and ROOT TMVA), PyTorch, git, LaTeX. 
 
