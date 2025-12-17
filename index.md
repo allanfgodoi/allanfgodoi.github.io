@@ -57,7 +57,7 @@ I am Allan Eduardo Flores Godoi Ferreira, born in Brazil and currently an underg
 
 ### 2025
 
-* **Advances in QCD at the LHC and the EIC 2025 Workshop** (Rio de Janeiro, Nov 10-13)
+* **Advances in QCD at the LHC and the EIC 2025** (Rio de Janeiro, Nov 10-13)
     * *Oral presentation:* Study of Collective Phenomena in Heavy-Ion Collisions Using CMS Open Data.  
 
 * **III Workshop on High Energy Physics of Rio Grande do Sul (III HEPRS)** (Porto Alegre, Oct 23-24)
