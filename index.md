@@ -36,13 +36,15 @@ I am Allan Eduardo Flores Godoi Ferreira, born in Brazil and currently an underg
 * **Advisor:** César Augusto Bernardes (IF-UFRGS, SPRACE-UNESP) 
 
 * Measurement of a new observable in PbPb CMS Open Data, directly related to initial state fluctuations and proposed as an important probe for collective behavior in heavy-ion collisions.
+
  ### Application of Variational Autoencoders to Generate $D^{0}$ Meson Kinematics in Heavy-ion Collisions at the LHC
 **Physics Institute, UFRGS** | *Jan 2024 - Present*
 * **Advisor:** César Augusto Bernardes (IF-UFRGS, SPRACE-UNESP)  
 
 * **Collaborators:** Vinicius T. Castellani, Davi L. de Souza, Breno Orzari, Thiago R. F. P. Tomei. 
 
-* Development of a neural network based on variational autoencoders to generate $D^{0}$ meson kinematics. 
+* Development of a neural network based on variational autoencoders to generate $D^{0}$ meson kinematics.
+
 ### Application of Machine Learning Methods for Particle Identification in PbPb Collisions at the LHC
 **Physics Institute, UFRGS** | *Sep 2022 - Dec 2023*
 * **Advisor:** César Augusto Bernardes (IF-UFRGS, SPRACE-UNESP)  
@@ -74,6 +76,7 @@ I am Allan Eduardo Flores Godoi Ferreira, born in Brazil and currently an underg
 
 * **IV Spring Meeting of the Brazilian Physical Society (EPSBF 2024)** (Belo Horizonte, Sep 24-27)
     * *Oral presentation:* Application of Variational Autoencoders to Generate $D^{0}$ Meson Kinematics in Heavy-ion Collisions at the LHC.
+
 ---
 
 ## 🏆 Awards
