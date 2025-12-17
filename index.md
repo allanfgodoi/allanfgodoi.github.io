@@ -57,7 +57,7 @@ I am Allan Eduardo Flores Godoi Ferreira, born in Brazil and currently an underg
 
 ### 2025
 
-* **Workshop on Advances in QCD at the LHC and the EIC** (Rio de Janeiro, Nov 10-13)
+* **Advances in QCD at the LHC and the EIC 2025 Workshop** (Rio de Janeiro, Nov 10-13)
     * *Oral presentation:* Study of Collective Phenomena in Heavy-Ion Collisions Using CMS Open Data.  
 
 * **III Workshop on High Energy Physics of Rio Grande do Sul (III HEPRS)** (Porto Alegre, Oct 23-24)
@@ -99,6 +99,6 @@ I am Allan Eduardo Flores Godoi Ferreira, born in Brazil and currently an underg
 
 * **International Masterclasses: Hands-on Particle Physics 2025** (IFRS Campus Osório, Apr 1 2025) - *Assistant*.
 
-* **Physics Academical Week 2024** (UFRGS, Sep 2-6 2024) - *Organizer*.
+* **Physics Academical Week 2024** (IF-UFRGS, Sep 2-6 2024) - *Organizer*.
 
 * **International Masterclasses: Hands-on Particle Physics 2024** (IFRS Campus Osório, Mar 21 2024) - *Assistant*.
