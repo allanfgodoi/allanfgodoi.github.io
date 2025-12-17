@@ -37,7 +37,7 @@ I am Allan Eduardo Flores Godoi Ferreira, born in Brazil and currently an underg
 
 * Measurement of a new observable in PbPb CMS Open Data, directly related to initial state fluctuations and proposed as an important probe for collective behavior in heavy-ion collisions.
 
- ### Application of Variational Autoencoders to Generate $D^{0}$ Meson Kinematics in Heavy-ion Collisions at the LHC
+### Application of Variational Autoencoders to Generate $D^{0}$ Meson Kinematics in Heavy-ion Collisions at the LHC
 **Physics Institute, UFRGS** | *Jan 2024 - Present*
 * **Advisor:** César Augusto Bernardes (IF-UFRGS, SPRACE-UNESP)  
 
