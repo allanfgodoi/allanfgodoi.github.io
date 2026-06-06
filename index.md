@@ -12,6 +12,10 @@ I am Allan Eduardo Flores Godoi Ferreira, born in Brazil and currently an underg
 
 ## 🎓 Education
 
+**CERN Summer Student** | European Organization for Nuclear Research (CERN)
+* *June 2026 - Present*
+* Working in the project entitled "Advancing Heavy-Flavour Hadron Identification Using Generative Machine  Learning Methods at the LHC"
+
 **BSc in Physics** | Federal University of Rio Grande do Sul (UFRGS)
 * *July 2022 - Present* 
 
@@ -37,19 +41,19 @@ I am Allan Eduardo Flores Godoi Ferreira, born in Brazil and currently an underg
 
 * Measurement of a new observable in PbPb CMS Open Data, directly related to initial state fluctuations and proposed as an important probe for collective behavior in heavy-ion collisions.
 
-### Application of Variational Autoencoders to Generate $D^{0}$ Meson Kinematics in Heavy-ion Collisions at the LHC
+### Application of Variational Autoencoders to Generate D0 Meson Kinematics in Heavy-ion Collisions at the LHC
 **Physics Institute, UFRGS** | *Jan 2024 - Present*
 * **Advisor:** César Augusto Bernardes (IF-UFRGS, SPRACE-UNESP)  
 
 * **Collaborators:** Vinicius T. Castellani, Davi L. de Souza, Breno Orzari, Thiago R. F. P. Tomei. 
 
-* Development of a neural network based on variational autoencoders to generate $D^{0}$ meson kinematics.
+* Development of a neural network based on variational autoencoders to generate D0 meson kinematics.
 
 ### Application of Machine Learning Methods for Particle Identification in PbPb Collisions at the LHC
 **Physics Institute, UFRGS** | *Sep 2022 - Dec 2023*
 * **Advisor:** César Augusto Bernardes (IF-UFRGS, SPRACE-UNESP)  
 
-* Application of decision trees methods using ROOT TMVA for $D^{0}$ mesons identification in PbPb collisions at the LHC. 
+* Application of decision trees methods using ROOT TMVA for D0 mesons identification in PbPb collisions at the LHC. 
 
 ---
 
@@ -70,20 +74,20 @@ I am Allan Eduardo Flores Godoi Ferreira, born in Brazil and currently an underg
     * *Poster:* Study of Collective Phenomena in Heavy-ion Collisions Using CMS Open Data.
 
 * **XVI International Workshop on Hadron Physics (HADRONS 2025)** (Porto Alegre, Mar 10-14)
-   * *Poster:* Application of Variational Autoencoders to Generate $D^{0}$ Meson Kinematics in Heavy-ion Collisions at the LHC.
+   * *Poster:* Application of Variational Autoencoders to Generate D0 Meson Kinematics in Heavy-ion Collisions at the LHC.
 
 ### 2024
 
 * **IV Spring Meeting of the Brazilian Physical Society (EPSBF 2024)** (Belo Horizonte, Sep 24-27)
-    * *Oral presentation:* Application of Variational Autoencoders to Generate $D^{0}$ Meson Kinematics in Heavy-ion Collisions at the LHC.
+    * *Oral presentation:* Application of Variational Autoencoders to Generate D0 Meson Kinematics in Heavy-ion Collisions at the LHC.
 
 ---
 
 ## 🏆 Awards
 
-* **Session Best Presentation:** Salon of Undergraduate Research IF-UFRGS 2024 (Oct 2024). Selected as the best undergraduate research project presentation in the session for the work entitled: "Application of Variational Autoencoders to Generate $D^{0}$ Meson Kinematics in Heavy-ion Collisions at the LHC".
+* **Session Best Presentation:** Salon of Undergraduate Research IF-UFRGS 2024 (Oct 2024). Selected as the best undergraduate research project presentation in the session for the work entitled: "Application of Variational Autoencoders to Generate D0 Meson Kinematics in Heavy-ion Collisions at the LHC".
 
-* **Highlighted Abstract:** IV Spring Meeting of the Brazilian Physical Society (Sep 2024). Selected as a highlighted abstract in the Experimental High Energy Physics topic for the work entitled: "Application of Variational Autoencoders to Generate $D^{0}$ Meson Kinematics in Heavy-ion Collisions at the LHC".
+* **Highlighted Abstract:** IV Spring Meeting of the Brazilian Physical Society (Sep 2024). Selected as a highlighted abstract in the Experimental High Energy Physics topic for the work entitled: "Application of Variational Autoencoders to Generate D0 Meson Kinematics in Heavy-ion Collisions at the LHC".
 
 ---
 
