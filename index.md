@@ -1,23 +1,32 @@
 # Allan Eduardo Flores Godoi Ferreira
 
-**Federal University of Rio Grande do Sul (UFRGS)** | [allan.godoi@ufrgs.br](mailto:allan.godoi@ufrgs.br) | **CV Lattes ID:** 8194897736611075 
+**State University of São Paulo (UNESP)** | **São Paulo Research and Analysis Center (SPRACE)** | [allan.godoi@cern.ch](mailto:allan.godoi@cern.ch) |
 
 ---
 
 ## 👨 About Me
 
-I am Allan Eduardo Flores Godoi Ferreira, born in Brazil and currently an undergraduate physics student at the Federal University of Rio Grande do Sul (UFRGS). I am part of the university CMS Collaboration Experimental Group (GECMS-UFRGS) and from the Particle Analysis and Simulation Group (GASP-UFRGS), and also collaborate with the São Paulo Research and Analysis Center (SPRACE-UNESP). My research projects are related to Experimental Heavy-ion Physics and Machine Learning applied to Experimental High Energy Physics.
+I am currently a Master's student in Physics at the Theoretical Physics Institute of São Paulo State University (IFT-UNESP), working with the São Paulo Research and Analysis Center (SPRACE) within the CMS Collaboration.
+
+My primary research interests lie in Experimental Heavy-ion Physics and the application of Deep Learning techniques to High Energy Physics (HEP).
+
+I completed my Bachelor's degree at the Physics Institute of Rio Grande do Sul Federal University (IF-UFRGS), where I took my first steps in experimental HEP at the LHC as a member of the Particle Analysis and Simulation Group (GASP) and the CMS Collaboration Group (GECMS).
+
+In 2026, I had the incredible opportunity to be a CERN Summer Student. I spent 12 weeks at the CERN facilities in Geneva, attending various lectures and workshops while contributing to a research project in the Experimental Physics Department (EP) within the CMS Collaboration. My final report can be accessed here: https://repository.cern/records/hdrgh-bv622.
 
 ---
 
 ## 🎓 Education
 
+**MSc. in Physics** | State University of São Paulo (UNESP)
+* *August 2026 - Present*
+
 **CERN Summer Student** | European Organization for Nuclear Research (CERN)
-* *June 2026 - Present*
+* *June 2026 - August 2026*
 * Working in the project entitled "Advancing Heavy-Flavour Hadron Identification Using Generative Machine  Learning Methods at the LHC"
 
 **BSc in Physics** | Federal University of Rio Grande do Sul (UFRGS)
-* *July 2022 - Present* 
+* *July 2022 - July 2026* 
 
 ---
 
