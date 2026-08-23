@@ -1,6 +1,6 @@
 # Allan Eduardo Flores Godoi Ferreira
 
-**State University of São Paulo (UNESP)** | **São Paulo Research and Analysis Center (SPRACE)** | [allan.godoi@cern.ch](mailto:allan.godoi@cern.ch) |
+**State University of São Paulo (UNESP)** | **São Paulo Research and Analysis Center (SPRACE)** | [allan.godoi@cern.ch](mailto:allan.godoi@cern.ch)
 
 ---
 
@@ -12,7 +12,7 @@ My primary research interests lie in Experimental Heavy-ion Physics and the appl
 
 I completed my Bachelor's degree at the Physics Institute of Rio Grande do Sul Federal University (IF-UFRGS), where I took my first steps in experimental HEP at the LHC as a member of the Particle Analysis and Simulation Group (GASP) and the CMS Collaboration Group (GECMS).
 
-In 2026, I had the incredible opportunity to be a CERN Summer Student. I spent 12 weeks at the CERN facilities in Geneva, attending various lectures and workshops while contributing to a research project in the Experimental Physics Department (EP) within the CMS Collaboration. My final report can be accessed here: https://repository.cern/records/hdrgh-bv622.
+In 2026, I had the incredible opportunity to be a CERN Summer Student. I spent 12 weeks at the CERN facilities in Geneva, attending various lectures and workshops while contributing to a research project in the Experimental Physics Department (EP) within the CMS Collaboration.
 
 ---
 
@@ -23,7 +23,8 @@ In 2026, I had the incredible opportunity to be a CERN Summer Student. I spent 1
 
 **CERN Summer Student** | European Organization for Nuclear Research (CERN)
 * *June 2026 - August 2026*
-* Working in the project entitled "Advancing Heavy-Flavour Hadron Identification Using Generative Machine  Learning Methods at the LHC"
+* Project: "Advancing Heavy-Flavour Hadron Identification Using Generative Machine  Learning Methods at the LHC"
+* Report: https://repository.cern/records/hdrgh-bv622
 
 **BSc in Physics** | Federal University of Rio Grande do Sul (UFRGS)
 * *July 2022 - July 2026* 
